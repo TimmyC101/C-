@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\bin\Debug\TA-DailyReport.exe.config
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\bin\Debug\TA-DailyReport.exe
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\bin\Debug\TA-DailyReport.pdb
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\obj\Debug\TA-DailyReport.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\obj\Debug\TA-DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\obj\Debug\TA-DailyReport.exe
+C:\Users\Tim\Documents\GitHub\C#\TA-DailyReport\obj\Debug\TA-DailyReport.pdb
