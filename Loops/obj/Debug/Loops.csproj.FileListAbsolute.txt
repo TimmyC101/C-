@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Loops\bin\Debug\Loops.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Loops\bin\Debug\Loops.exe
+C:\Users\Tim\Documents\GitHub\C#\Loops\bin\Debug\Loops.pdb
+C:\Users\Tim\Documents\GitHub\C#\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Loops\obj\Debug\Loops.exe
+C:\Users\Tim\Documents\GitHub\C#\Loops\obj\Debug\Loops.pdb
