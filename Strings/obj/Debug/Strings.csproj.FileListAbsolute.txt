@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Strings\bin\Debug\Strings.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Strings\bin\Debug\Strings.exe
+C:\Users\Tim\Documents\GitHub\C#\Strings\bin\Debug\Strings.pdb
+C:\Users\Tim\Documents\GitHub\C#\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Strings\obj\Debug\Strings.exe
+C:\Users\Tim\Documents\GitHub\C#\Strings\obj\Debug\Strings.pdb
