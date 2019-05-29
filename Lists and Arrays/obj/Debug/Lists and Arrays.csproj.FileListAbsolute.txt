@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\bin\Debug\Lists and Arrays.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\bin\Debug\Lists and Arrays.exe
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\bin\Debug\Lists and Arrays.pdb
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\obj\Debug\Lists and Arrays.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\obj\Debug\Lists and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\obj\Debug\Lists and Arrays.exe
+C:\Users\Tim\Documents\GitHub\C#\Lists and Arrays\obj\Debug\Lists and Arrays.pdb
