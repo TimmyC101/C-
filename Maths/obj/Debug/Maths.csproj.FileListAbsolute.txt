@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Maths\obj\Debug\Maths.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Maths\obj\Debug\Maths.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Maths\bin\Debug\Maths.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Maths\bin\Debug\Maths.exe
+C:\Users\Tim\Documents\GitHub\C#\Maths\bin\Debug\Maths.pdb
+C:\Users\Tim\Documents\GitHub\C#\Maths\obj\Debug\Maths.exe
+C:\Users\Tim\Documents\GitHub\C#\Maths\obj\Debug\Maths.pdb
