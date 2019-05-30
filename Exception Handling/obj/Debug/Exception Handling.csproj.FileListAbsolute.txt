@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\obj\Debug\Exception Handling.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\bin\Debug\Exception Handling.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\bin\Debug\Exception Handling.exe
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\bin\Debug\Exception Handling.pdb
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\obj\Debug\Exception Handling.exe
+C:\Users\Tim\Documents\GitHub\C#\Exception Handling\obj\Debug\Exception Handling.pdb
