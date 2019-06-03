@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Classes2\bin\Debug\Classes2.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Classes2\bin\Debug\Classes2.exe
+C:\Users\Tim\Documents\GitHub\C#\Classes2\bin\Debug\Classes2.pdb
+C:\Users\Tim\Documents\GitHub\C#\Classes2\obj\Debug\Classes2.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Classes2\obj\Debug\Classes2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Classes2\obj\Debug\Classes2.exe
+C:\Users\Tim\Documents\GitHub\C#\Classes2\obj\Debug\Classes2.pdb
