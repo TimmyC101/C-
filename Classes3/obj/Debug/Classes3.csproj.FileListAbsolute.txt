@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Classes3\bin\Debug\Classes3.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Classes3\bin\Debug\Classes3.exe
+C:\Users\Tim\Documents\GitHub\C#\Classes3\bin\Debug\Classes3.pdb
+C:\Users\Tim\Documents\GitHub\C#\Classes3\obj\Debug\Classes3.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Classes3\obj\Debug\Classes3.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Classes3\obj\Debug\Classes3.exe
+C:\Users\Tim\Documents\GitHub\C#\Classes3\obj\Debug\Classes3.pdb
