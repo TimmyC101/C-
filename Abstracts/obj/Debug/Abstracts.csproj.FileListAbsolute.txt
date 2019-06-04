@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\bin\Debug\Abstracts.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\bin\Debug\Abstracts.exe
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\bin\Debug\Abstracts.pdb
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\obj\Debug\Abstracts.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\obj\Debug\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\obj\Debug\Abstracts.exe
+C:\Users\Tim\Documents\GitHub\C#\Abstracts\obj\Debug\Abstracts.pdb

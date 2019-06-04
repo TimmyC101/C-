@@ -10,10 +10,9 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            BlackjackGame blackjack = new BlackjackGame();
-            blackjack.Players = new List<string> { "Matt", "Andy", "Garyt" };
-            blackjack.ListPlayers();
-            blackjack.Play();
+            BlackjackGame game = new BlackjackGame();
+            game.Players = new List<string>() { "Tim", "Andy", "Matt" };
+            game.ListPlayers();
             Console.ReadLine();
 
             Deck deck = new Deck();
