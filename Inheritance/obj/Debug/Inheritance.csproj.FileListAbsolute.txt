@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Tim\Documents\GitHub\C#\Inheritance\obj\Debug\Inheritance.pdb

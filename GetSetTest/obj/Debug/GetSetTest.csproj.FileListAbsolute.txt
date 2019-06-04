@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\bin\Debug\GetSetTest.exe.config
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\bin\Debug\GetSetTest.exe
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\bin\Debug\GetSetTest.pdb
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\obj\Debug\GetSetTest.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\obj\Debug\GetSetTest.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\obj\Debug\GetSetTest.exe
+C:\Users\Tim\Documents\GitHub\C#\GetSetTest\obj\Debug\GetSetTest.pdb
