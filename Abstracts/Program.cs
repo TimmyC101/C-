@@ -14,6 +14,8 @@ namespace Abstracts
             person.firstName = "Sample";
             person.lastName = "Student";
             person.SayName();
+            IQuittable person2 = new Employee();
+            person2.Quit();
         }
     }
 }
