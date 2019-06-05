@@ -18,5 +18,10 @@ namespace Abstracts
             Console.WriteLine("Press any key to exit the program");
             Console.ReadLine();
         }
+
+        public static Employee operator ==(Employee employee)
+        {
+
+        }
     }
 }
