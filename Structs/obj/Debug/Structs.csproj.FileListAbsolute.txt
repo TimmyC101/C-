@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\Structs\bin\Debug\Structs.exe.config
+C:\Users\Tim\Documents\GitHub\C#\Structs\bin\Debug\Structs.exe
+C:\Users\Tim\Documents\GitHub\C#\Structs\bin\Debug\Structs.pdb
+C:\Users\Tim\Documents\GitHub\C#\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\Structs\obj\Debug\Structs.exe
+C:\Users\Tim\Documents\GitHub\C#\Structs\obj\Debug\Structs.pdb
