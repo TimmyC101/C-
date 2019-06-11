@@ -47,5 +47,44 @@ namespace Blackjack
             if (value == 21) return true;
             else return false;
         }
+
+        public static bool IsBusted(List<Card> Hand)
+        {
+            int value = GetAllPossibleValues(Hand).Min();
+            if (value > 21) return true;
+            else return false;
+        }
+
+        public static bool ShouldDealerStay(List<Card> Hand)
+        {
+            int[] possibleHandValues = GetAllPossibleValues(Hand);
+            foreach (int value in possibleHandValues)
+            {
+                if (value > 16 && value < 22)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
+        {
+            int[] playerResults = GetAllPossibleValues(PlayerHand);
+            int[] dealerResults = GetAllPossibleValues(DealerHand);
+
+            int playerScore = playerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 22).Max();
+
+            if (playerScore > dealerScore)
+            {
+                return true;
+            }
+            else if (playerScore < dealerScore)
+            {
+                return false;
+            }
+            else return null;
+        }
     }
 }
