@@ -22,21 +22,38 @@ namespace Lambda
             employees.Add(new Employee { first = "Laura", last = "Styles", Id = 9 });
             employees.Add(new Employee { first = "Joe", last = "Zeusowitz", Id = 10 });
 
-            int count1 = 0;
+            List<Employee> joes = new List<Employee>();
+            // use foreach loop to create list of Joes
             foreach (Employee person in employees)
             {
                 if (person.first == "Joe")
                 {
-                    count1++;
+                    joes.Add(person);
                 }
             }
-            Console.WriteLine("Number of Joes using foreach loop: " + count1);
+            Console.WriteLine("List of Joes using foreach loop:");
+            foreach (Employee joe in joes)
+            {
+                Console.WriteLine("First Name: " + joe.first + " || Last Name: " + joe.last + " || ID: " + joe.Id);
+            }
+            Console.WriteLine(" ");
 
-            int count2 = employees.Count(x => x.first == "Joe");
-            Console.WriteLine("Number of Joes using lambda fxn: " + count2);
+            // use lambda function to create list of Joes
+            Console.WriteLine("List of Joes using lambda function:");
+            List<Employee> joes2 = employees.Where(x => x.first == "Joe").ToList();
+            foreach (Employee joe in joes2)
+            {
+                Console.WriteLine("First Name: " + joe.first + " || Last Name: " + joe.last + " || ID: " + joe.Id);
+            }
+            Console.WriteLine(" ");
 
-            int count3 = employees.Count(x => x.Id > 5);
-            Console.WriteLine("Number of employee ID's greater than 5 using lambda fxn: " + count3);
+            // use lambda function to create list of employees with id greater than 5
+            Console.WriteLine("List of employees with ID > 5, using lambda function:");
+            List<Employee> idGreater5 = employees.Where(x => x.Id > 5).ToList();
+            foreach (Employee item in idGreater5)
+            {
+                Console.WriteLine("First Name: " + item.first + " || Last Name: " + item.last + " || ID: " + item.Id);
+            }
 
             Console.ReadLine();
         }
