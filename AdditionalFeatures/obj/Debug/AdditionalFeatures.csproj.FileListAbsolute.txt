@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe.config
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\bin\Debug\AdditionalFeatures.pdb
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\obj\Debug\AdditionalFeatures.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\obj\Debug\AdditionalFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\obj\Debug\AdditionalFeatures.exe
+C:\Users\Tim\Documents\GitHub\C#\AdditionalFeatures\obj\Debug\AdditionalFeatures.pdb

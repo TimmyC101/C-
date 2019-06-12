@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
-{
+namespace Casino.Blackjack
+{ 
     public class BlackjackGame : Game, IWalkAway
     {
         public BlackjackDealer Dealer { get; set; }
@@ -98,10 +98,12 @@ namespace Blackjack
                         if (answer == "yes")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }

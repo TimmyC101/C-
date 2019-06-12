@@ -5,3 +5,6 @@ C:\Users\Tim\Documents\GitHub\C#\Blackjack\obj\Debug\Blackjack.csprojAssemblyRef
 C:\Users\Tim\Documents\GitHub\C#\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\Tim\Documents\GitHub\C#\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\Tim\Documents\GitHub\C#\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Tim\Documents\GitHub\C#\Blackjack\bin\Debug\Casino.dll
+C:\Users\Tim\Documents\GitHub\C#\Blackjack\bin\Debug\Casino.pdb
+C:\Users\Tim\Documents\GitHub\C#\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
