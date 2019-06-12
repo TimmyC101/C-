@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Tim\Documents\GitHub\C#\FileIO\bin\Debug\FileIO.exe
+C:\Users\Tim\Documents\GitHub\C#\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Tim\Documents\GitHub\C#\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\FileIO\obj\Debug\FileIO.exe
+C:\Users\Tim\Documents\GitHub\C#\FileIO\obj\Debug\FileIO.pdb
