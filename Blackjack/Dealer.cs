@@ -20,6 +20,7 @@ namespace Blackjack
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\Tim\Documents\Github\C#\Blackjack\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);
