@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\bin\Debug\AdvErrorHandling.exe.config
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\bin\Debug\AdvErrorHandling.exe
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\bin\Debug\AdvErrorHandling.pdb
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\obj\Debug\AdvErrorHandling.csprojAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\obj\Debug\AdvErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\obj\Debug\AdvErrorHandling.exe
+C:\Users\Tim\Documents\GitHub\C#\AdvErrorHandling\obj\Debug\AdvErrorHandling.pdb

@@ -22,11 +22,24 @@ namespace Casino.Blackjack
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool valid = false;
+                int bet = 0;
+                while (!valid)
+                {
+                    Console.WriteLine("Place your bet!");
+                    valid = int.TryParse(Console.ReadLine(), out bet);
+                    if (!valid)
+                    {
+                        Console.WriteLine("Please enter a whole number using digits only.");
+                    }
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
