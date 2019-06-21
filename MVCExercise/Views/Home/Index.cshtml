@@ -1,0 +1,50 @@
+﻿ <div class="container mx-auto">   
+    <div class="row">
+        <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto">
+            <div class="card-header text-center">
+                <h5 class="m-0">To apply for auto insurance, please complete and submit the form below.</h5>
+            </div>
+            <div class="card-body">
+                <!-- Create a form using C# methods, as opposed to using hardcoding html -->
+                @using (Html.BeginForm("Quote", "Home", FormMethod.Post))
+                {
+                    <div class="row no-gutters">
+                        <div class="form-group col-md-12">
+                            <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="BirthDate" type="date" class="form-control" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="CarYear" type="number" class="form-control" placeholder="Year" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="CarMake" type="text" class="form-control" placeholder="Make" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="CarModel" type="text" class="form-control" placeholder="Model" />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="DUI" type="number" class="form-control" placeholder="Please Enter 1 if you have had a DUI.  Enter 0 if you have not." />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="Tickets" type="number" class="form-control" placeholder="Please enter the number of tickets you have been issued." />
+                        </div>
+                        <div class="form-group col-md-12">
+                            <input name="Coverage" type="text" class="form-control" placeholder="Please enter 'Full' or 'Liability'." />
+                        </div>
+                        <div>
+                        <button type="submit" class="btn btn-block btn-primary">Submit</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

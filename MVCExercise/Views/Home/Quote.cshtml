@@ -1,0 +1,18 @@
+﻿@using MVCExercise.Models
+@model Person
+
+<div class="container">
+    <table style="width:75%" class="mx-auto">
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Quote</th>
+        </tr>
+        <tr>
+            <td>@Model.FirstName</td>
+            <td>@Model.LastName</td>
+            <td>$@Model.Quote</td>
+        </tr>
+    </table>
+</div>
+
